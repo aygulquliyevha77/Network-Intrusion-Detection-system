@@ -119,8 +119,6 @@ The project shows practical experience with:
 # 🏢 Internship
 This project was completed as part of my **Cybersecurity Internship at CodeAlpha**.
 # 👨‍💻 Author
-Cybersecurity Student  
-Junior Security Enthusiast
 
 Cybersecurity Student  
 Junior Security Enthusiast
